@@ -1,6 +1,6 @@
 # 🌐 Basic Informational Website
 
-This project was created as part of a personal exercise to reinforce my understanding of core HTML concepts and to build a simple static site with navigation and a custom 404 error page. The site contains four pages and demonstrates clean structure and basic client-side routing through internal links.
+This project was created as part of a personal exercise to reinforce my understanding of Node.js concepts and to build a simple static site with navigation and a custom 404 error page. The site contains four pages and demonstrates clean structure and basic client-side routing through internal links.
 
 The application provides the following pages:
 
